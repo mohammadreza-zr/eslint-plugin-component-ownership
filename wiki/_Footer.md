@@ -1,0 +1,1 @@
+[npm](https://www.npmjs.com/package/@mrzr/eslint-plugin-component-ownership) · [GitHub](https://github.com/mohammadreza-zr/eslint-plugin-component-ownership) · [Issues](https://github.com/mohammadreza-zr/eslint-plugin-component-ownership/issues) · MIT

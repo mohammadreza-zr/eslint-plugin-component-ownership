@@ -1,0 +1,10 @@
+
+src/features/profile.tsx
+  2:25  error  `rounded-full` styles an element from outside a component. Move it into the component's variants, or make the styled element a component  ownership/no-external-styling
+  5:17  error  `Profile` is a second component in this file. Move it into its own file (one component per file)                                          ownership/one-component-per-file
+  7:24  error  `bg-card` styles an element from outside a component. Move it into the component's variants, or make the styled element a component       ownership/no-external-styling
+  7:24  error  `p-4` styles an element from outside a component. Move it into the component's variants, or make the styled element a component           ownership/no-external-styling
+  9:53  error  `text-primary` styles an element from outside a component. Move it into the component's variants, or make the styled element a component  ownership/no-external-styling
+
+✖ 5 problems (5 errors, 0 warnings)
+
